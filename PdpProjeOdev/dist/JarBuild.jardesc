@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="PdpProjeOdev/jarx/PdpProjeOdev.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/PdpProjeOdev/JarBuild.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" mainClassHandleIdentifier="=PdpProjeOdev/src&lt;Program{Program.java[Program" manifestLocation="/PdpProjeOdev/manifest" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/PdpProjeOdev/.classpath"/>
+        <file path="/PdpProjeOdev/.project"/>
+        <folder path="/PdpProjeOdev/doc"/>
+        <javaElement handleIdentifier="=PdpProjeOdev/src"/>
+    </selectedElements>
+</jardesc>
